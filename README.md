@@ -15,7 +15,7 @@ A simple Markdown to HTML converter in C++, simulating how parsers work.
 
 ---
 
-## 🛠 How to Compile and Run
+## How to Compile and Run
 
 ### Using g++:
 
